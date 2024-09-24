@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Квадратная (n) сумма", "Квадратная (n) сумма.csproj", "{5FC1CBB6-A652-4ECC-B341-4A636ACC5581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinAndMax", "..\MinAndMax\MinAndMax.csproj", "{23AF45D0-A19E-4743-9F84-1CA6AFEDF7E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Удалить минимум", "..\Удалить минимум\Удалить минимум.csproj", "{85C0821C-2C92-49A4-84D8-E1F09288BA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Суммирование строк", "..\Суммирование строк\Суммирование строк.csproj", "{5DBEAEF2-59DC-4470-A7CD-7A9E0FBDE5D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ_3.1_Array", "..\PZ_3_Array\PZ_3.1_Array.csproj", "{E292B588-0949-43B0-8245-1D1E4CFC89C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ_3.2_Array", "..\PZ_3.2_Array\PZ_3.2_Array.csproj", "{8ED4246A-7A76-4993-B8C8-E8609A24866B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ_3.3_Array", "..\PZ_3.3_Array\PZ_3.3_Array.csproj", "{AB924F2B-0A4B-4627-980B-9856F73981E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC1CBB6-A652-4ECC-B341-4A636ACC5581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC1CBB6-A652-4ECC-B341-4A636ACC5581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC1CBB6-A652-4ECC-B341-4A636ACC5581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC1CBB6-A652-4ECC-B341-4A636ACC5581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AF45D0-A19E-4743-9F84-1CA6AFEDF7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AF45D0-A19E-4743-9F84-1CA6AFEDF7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AF45D0-A19E-4743-9F84-1CA6AFEDF7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AF45D0-A19E-4743-9F84-1CA6AFEDF7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C0821C-2C92-49A4-84D8-E1F09288BA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C0821C-2C92-49A4-84D8-E1F09288BA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C0821C-2C92-49A4-84D8-E1F09288BA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C0821C-2C92-49A4-84D8-E1F09288BA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBEAEF2-59DC-4470-A7CD-7A9E0FBDE5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBEAEF2-59DC-4470-A7CD-7A9E0FBDE5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBEAEF2-59DC-4470-A7CD-7A9E0FBDE5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBEAEF2-59DC-4470-A7CD-7A9E0FBDE5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E292B588-0949-43B0-8245-1D1E4CFC89C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E292B588-0949-43B0-8245-1D1E4CFC89C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E292B588-0949-43B0-8245-1D1E4CFC89C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E292B588-0949-43B0-8245-1D1E4CFC89C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED4246A-7A76-4993-B8C8-E8609A24866B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED4246A-7A76-4993-B8C8-E8609A24866B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED4246A-7A76-4993-B8C8-E8609A24866B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED4246A-7A76-4993-B8C8-E8609A24866B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB924F2B-0A4B-4627-980B-9856F73981E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB924F2B-0A4B-4627-980B-9856F73981E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB924F2B-0A4B-4627-980B-9856F73981E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB924F2B-0A4B-4627-980B-9856F73981E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB67193-BF6C-4EE4-A93B-EBE8765ABF43}
+	EndGlobalSection
+EndGlobal
