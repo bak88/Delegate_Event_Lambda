@@ -37,16 +37,8 @@
             Operation operation = delegate (int x, int y)
             {
                 return x + y + z;
-            };
-            
+            };            
             Console.WriteLine(operation.Invoke(4,5));
-
-
-
-
-
-
-
 
         }
 
