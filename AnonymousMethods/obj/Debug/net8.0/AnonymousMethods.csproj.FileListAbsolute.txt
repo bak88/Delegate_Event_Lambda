@@ -1,0 +1,15 @@
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.exe
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.deps.json
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.runtimeconfig.json
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.dll
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.pdb
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.AssemblyInfo.cs
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.sourcelink.json
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.dll
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\refint\AnonymousMethods.dll
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.pdb
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.genruntimeconfig.cache
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\AnonymousMethods\obj\Debug\net8.0\ref\AnonymousMethods.dll

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DelegateGeneric")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AnonymousMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d676f942081483059648fd3b0e53ca9ed327ee5")]
-[assembly: System.Reflection.AssemblyProductAttribute("DelegateGeneric")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DelegateGeneric")]
+[assembly: System.Reflection.AssemblyProductAttribute("AnonymousMethods")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AnonymousMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
