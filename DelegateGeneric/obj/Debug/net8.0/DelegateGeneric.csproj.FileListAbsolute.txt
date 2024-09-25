@@ -1,0 +1,15 @@
+C:\Users\dimba\source\repos\DelegateGeneric\bin\Debug\net8.0\DelegateGeneric.exe
+C:\Users\dimba\source\repos\DelegateGeneric\bin\Debug\net8.0\DelegateGeneric.deps.json
+C:\Users\dimba\source\repos\DelegateGeneric\bin\Debug\net8.0\DelegateGeneric.runtimeconfig.json
+C:\Users\dimba\source\repos\DelegateGeneric\bin\Debug\net8.0\DelegateGeneric.dll
+C:\Users\dimba\source\repos\DelegateGeneric\bin\Debug\net8.0\DelegateGeneric.pdb
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\DelegateGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\DelegateGeneric.AssemblyInfoInputs.cache
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\DelegateGeneric.AssemblyInfo.cs
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\DelegateGeneric.csproj.CoreCompileInputs.cache
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\DelegateGeneric.sourcelink.json
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\DelegateGeneric.dll
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\refint\DelegateGeneric.dll
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\DelegateGeneric.pdb
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\DelegateGeneric.genruntimeconfig.cache
+C:\Users\dimba\source\repos\DelegateGeneric\obj\Debug\net8.0\ref\DelegateGeneric.dll

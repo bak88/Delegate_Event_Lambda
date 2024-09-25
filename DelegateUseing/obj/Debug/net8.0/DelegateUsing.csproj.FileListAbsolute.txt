@@ -1,0 +1,15 @@
+C:\Users\dimba\source\repos\DelegateUseing\bin\Debug\net8.0\DelegateUsing.exe
+C:\Users\dimba\source\repos\DelegateUseing\bin\Debug\net8.0\DelegateUsing.deps.json
+C:\Users\dimba\source\repos\DelegateUseing\bin\Debug\net8.0\DelegateUsing.runtimeconfig.json
+C:\Users\dimba\source\repos\DelegateUseing\bin\Debug\net8.0\DelegateUsing.dll
+C:\Users\dimba\source\repos\DelegateUseing\bin\Debug\net8.0\DelegateUsing.pdb
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\DelegateUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\DelegateUsing.AssemblyInfoInputs.cache
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\DelegateUsing.AssemblyInfo.cs
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\DelegateUsing.csproj.CoreCompileInputs.cache
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\DelegateUsing.sourcelink.json
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\DelegateUsing.dll
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\refint\DelegateUsing.dll
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\DelegateUsing.pdb
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\DelegateUsing.genruntimeconfig.cache
+C:\Users\dimba\source\repos\DelegateUseing\obj\Debug\net8.0\ref\DelegateUsing.dll
