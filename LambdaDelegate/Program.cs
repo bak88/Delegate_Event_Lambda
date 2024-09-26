@@ -70,6 +70,8 @@
             //Console.WriteLine(res);
 
 
+
+
             Operation operation = SelectOperation(OperationType.Add);
             Console.WriteLine(operation.Invoke(4,4));
             operation = SelectOperation(OperationType.Subtract);
