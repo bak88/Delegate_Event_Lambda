@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DelegateUsing")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LambdaDelegate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8667d34a56e2524113e81d46acc0f35d99f219b")]
-[assembly: System.Reflection.AssemblyProductAttribute("DelegateUsing")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DelegateUsing")]
+[assembly: System.Reflection.AssemblyProductAttribute("LambdaDelegate")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LambdaDelegate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

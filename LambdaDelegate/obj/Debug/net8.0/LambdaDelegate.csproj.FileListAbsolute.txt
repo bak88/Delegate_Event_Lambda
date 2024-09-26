@@ -1,0 +1,15 @@
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\bin\Debug\net8.0\LambdaDelegate.exe
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\bin\Debug\net8.0\LambdaDelegate.deps.json
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\bin\Debug\net8.0\LambdaDelegate.runtimeconfig.json
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\bin\Debug\net8.0\LambdaDelegate.dll
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\bin\Debug\net8.0\LambdaDelegate.pdb
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\LambdaDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\LambdaDelegate.AssemblyInfoInputs.cache
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\LambdaDelegate.AssemblyInfo.cs
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\LambdaDelegate.csproj.CoreCompileInputs.cache
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\LambdaDelegate.sourcelink.json
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\LambdaDelegate.dll
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\refint\LambdaDelegate.dll
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\LambdaDelegate.pdb
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\LambdaDelegate.genruntimeconfig.cache
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\LambdaDelegate\obj\Debug\net8.0\ref\LambdaDelegate.dll
