@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousMethods", "..\Anon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaDelegate", "..\LambdaDelegate\LambdaDelegate.csproj", "{A24422A4-E5FB-4E99-895F-3B057D47D1DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "..\Event\Event.csproj", "{1E6498C1-2217-4965-B19C-96764A92A06F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event", "..\Event\Event.csproj", "{1E6498C1-2217-4965-B19C-96764A92A06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianceAndContravariance", "..\CovarianceAndContravariance\CovarianceAndContravariance.csproj", "{34AC7ABA-FF1A-4DB2-9831-D370C84087E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1E6498C1-2217-4965-B19C-96764A92A06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E6498C1-2217-4965-B19C-96764A92A06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E6498C1-2217-4965-B19C-96764A92A06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34AC7ABA-FF1A-4DB2-9831-D370C84087E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AC7ABA-FF1A-4DB2-9831-D370C84087E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AC7ABA-FF1A-4DB2-9831-D370C84087E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AC7ABA-FF1A-4DB2-9831-D370C84087E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

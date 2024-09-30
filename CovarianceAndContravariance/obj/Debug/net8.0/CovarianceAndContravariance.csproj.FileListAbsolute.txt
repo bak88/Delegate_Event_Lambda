@@ -1,0 +1,15 @@
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\bin\Debug\net8.0\CovarianceAndContravariance.exe
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\bin\Debug\net8.0\CovarianceAndContravariance.deps.json
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\bin\Debug\net8.0\CovarianceAndContravariance.runtimeconfig.json
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\bin\Debug\net8.0\CovarianceAndContravariance.dll
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\bin\Debug\net8.0\CovarianceAndContravariance.pdb
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\CovarianceAndContravariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\CovarianceAndContravariance.AssemblyInfoInputs.cache
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\CovarianceAndContravariance.AssemblyInfo.cs
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\CovarianceAndContravariance.csproj.CoreCompileInputs.cache
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\CovarianceAndContravariance.sourcelink.json
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\CovarianceAndContravariance.dll
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\refint\CovarianceAndContravariance.dll
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\CovarianceAndContravariance.pdb
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\CovarianceAndContravariance.genruntimeconfig.cache
+C:\Users\dimba\source\repos\Delegate_Event_Lambda\CovarianceAndContravariance\obj\Debug\net8.0\ref\CovarianceAndContravariance.dll

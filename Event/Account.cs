@@ -27,7 +27,7 @@ namespace Event
             }
             else
             {
-                Notify?.Invoke(this, new AccountEventArgs($"Недостаточно средств {sum}", sum));
+                Notify?.Invoke(this, new AccountEventArgs($"Недостаточно средств {sum} ", sum));
             }
 
         }
