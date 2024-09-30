@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LambdaDelegate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dd2667aeb2a386d92afc5284bbe35724c0ed4fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e2c73d61cd7fcebebc6276751f798a1d7cab73d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LambdaDelegate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LambdaDelegate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
