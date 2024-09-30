@@ -8,6 +8,7 @@ namespace CovarianceAndContravariance
         delegate Message MessageBuilder(string test);
         delegate void EmailReceiver(EmailMessage message);
         delegate T MessageBuilder<out T>(string message);
+        delegate void MessReceiver<in T>(T message);
         static void Main(string[] args)
         {
 
@@ -24,18 +25,28 @@ namespace CovarianceAndContravariance
 
 
 
-            MessageBuilder<Message> message = messageBuilder;
-            Message mes = message.Invoke("LOL");
-            mes.Print();
+            //MessageBuilder<Message> message = messageBuilder;
+            //Message mes = message.Invoke("LOL");
+            //mes.Print();
+
+            MessReceiver<Message> messReceiver = (Message message) => message.Print();
+
+            MessReceiver<EmailMessage> mr = messReceiver;
+            mr.Invoke(new EmailMessage("werwer"));
+            
 
 
 
-           
+
+
+
         }
-        static EmailMessage WriteEmailMessage(string text) => new EmailMessage(text);  
+        static EmailMessage WriteEmailMessage(string text) => new EmailMessage(text);
         static void ReceiveMessage(Message message) => message.Print();
 
         static MessageBuilder<EmailMessage> messageBuilder = (string text) => new EmailMessage(text);
+
+
 
     }
 }
