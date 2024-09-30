@@ -11,7 +11,7 @@
             message.Print();
 
         }
-        static EmailMessage WriteEmailMessage(string text) => new EmailMessage(text);
+        static EmailMessage WriteEmailMessage(string text) => new EmailMessage(text);  
 
 
     }
