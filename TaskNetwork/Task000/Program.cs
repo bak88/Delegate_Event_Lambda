@@ -23,12 +23,32 @@ namespace Task000
             y = int.Parse(inputValues[1]);
             direction = inputValues[2];
 
-            result = direction switch
+            switch (direction)
             {
-                "up" =>
-            };
+                case "down":
+                    y += 1;
+                    break;
+                case "left":
+                    x -= 1;
+                    break;
+                case "right":
+                    x += 1;
+                    break;
+                case "up":
+                    y -= 1;
+                    break;
+            }
 
+            result = $"x: {x}, y: {y}, direction: {direction}";
             Console.WriteLine(result);
+
+            //result = direction switch
+            //{
+            //    "up" => $"x: {x}, y: {y - 1}, direction: {direction}",
+            //    "down" => $"x: {x}, y: {y + 1}, direction: {direction}",
+            //    "left" => $"x: {x - 1}, y: {y}, direction: {direction}",
+            //    "right" => $"x: {x + 1}, y: {y}, direction: {direction}"
+            //};
         }
 
         public static string[] ReadInput()
