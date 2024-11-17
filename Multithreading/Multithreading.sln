@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multithreading", "Multithreading.csproj", "{DC809685-AE24-4DFD-AEBE-0F9D325EF716}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_ParameterizedThreadStart", "_ParameterizedThreadStart\_ParameterizedThreadStart.csproj", "{E865ED39-11F9-4956-BBE1-17D385F4D561}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadsSynchronization", "..\ThreadsSynchronization\ThreadsSynchronization.csproj", "{A1B494E8-FF5E-4D03-BE8F-543219AC12CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Monitors", "..\_Monitors\_Monitors.csproj", "{8417FE59-9EFD-4C97-A0AF-AF08F326C6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_AutoResetEvent", "..\_AutoResetEvent\_AutoResetEvent.csproj", "{296868A7-8FA1-4A3B-9F48-866190586B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Mutex", "..\_Mutex\_Mutex.csproj", "{841FEE7E-B1A8-434D-8994-B6911F61C3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Semaphore", "..\_Semaphore\_Semaphore.csproj", "{BFB0D779-F822-49F8-8A2D-18D70F6F58F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC809685-AE24-4DFD-AEBE-0F9D325EF716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC809685-AE24-4DFD-AEBE-0F9D325EF716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC809685-AE24-4DFD-AEBE-0F9D325EF716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC809685-AE24-4DFD-AEBE-0F9D325EF716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E865ED39-11F9-4956-BBE1-17D385F4D561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E865ED39-11F9-4956-BBE1-17D385F4D561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E865ED39-11F9-4956-BBE1-17D385F4D561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E865ED39-11F9-4956-BBE1-17D385F4D561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B494E8-FF5E-4D03-BE8F-543219AC12CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B494E8-FF5E-4D03-BE8F-543219AC12CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B494E8-FF5E-4D03-BE8F-543219AC12CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B494E8-FF5E-4D03-BE8F-543219AC12CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8417FE59-9EFD-4C97-A0AF-AF08F326C6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8417FE59-9EFD-4C97-A0AF-AF08F326C6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8417FE59-9EFD-4C97-A0AF-AF08F326C6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8417FE59-9EFD-4C97-A0AF-AF08F326C6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296868A7-8FA1-4A3B-9F48-866190586B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296868A7-8FA1-4A3B-9F48-866190586B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296868A7-8FA1-4A3B-9F48-866190586B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296868A7-8FA1-4A3B-9F48-866190586B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841FEE7E-B1A8-434D-8994-B6911F61C3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841FEE7E-B1A8-434D-8994-B6911F61C3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841FEE7E-B1A8-434D-8994-B6911F61C3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841FEE7E-B1A8-434D-8994-B6911F61C3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB0D779-F822-49F8-8A2D-18D70F6F58F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB0D779-F822-49F8-8A2D-18D70F6F58F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB0D779-F822-49F8-8A2D-18D70F6F58F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB0D779-F822-49F8-8A2D-18D70F6F58F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1647CA4-E325-48E5-BE83-C631B4985562}
+	EndGlobalSection
+EndGlobal
