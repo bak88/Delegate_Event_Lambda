@@ -1,4 +1,12 @@
 
+using Final—ertificationRecipeBook.Data;
+using Final—ertificationRecipeBook.Models;
+using Final—ertificationRecipeBook.Repositories;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+
 namespace FinalCertificationRecipeBook
 {
     public class Program
@@ -6,17 +14,36 @@ namespace FinalCertificationRecipeBook
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
-            // Add services to the container.
+                        
+            string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+                      
+            builder.Services.AddDbContext<RecipeBookContext>(options => options.UseNpgsql(connectionString).UseLazyLoadingProxies());
+                        
+            builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            builder.Services.AddScoped<IUserAuthenticationService, UserAuthenticationService>();
 
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true,
+                    ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                    ValidAudience = builder.Configuration["Jwt:Audience"],
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+                };
+            });
+
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
+          
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -25,12 +52,13 @@ namespace FinalCertificationRecipeBook
 
             app.UseHttpsRedirection();
 
+            app.UseAuthentication();
             app.UseAuthorization();
-
 
             app.MapControllers();
 
             app.Run();
+
         }
     }
 }

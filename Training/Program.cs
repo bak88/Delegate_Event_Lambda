@@ -8,16 +8,53 @@ namespace Training
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
 
-            double a =1.5
-                ; double b =2;
-            double c = a % b;
-            Console.WriteLine(c);
+            M m = new M();
+            N n = new N();
+            M mn = new N();
+
+            m.A();
+            n.C();
+            mn.C();
+            mn.B();
 
         }
-
-
     }
+    public class M
+    {
+        public void A()
+        {
+            Console.WriteLine("M-A");
+        }
+
+        public virtual void B()
+        {
+            Console.WriteLine("M-B");
+        }
+
+        public void C()
+        {
+            Console.WriteLine("M-C");
+        }
+    }
+
+    public class N : M
+    {
+        public void A()
+        {
+            Console.WriteLine("N-A");
+        }
+        public  void B()
+        {
+            Console.WriteLine("N-B");
+        }
+
+        public void C()
+        {
+            Console.WriteLine("N-C");
+        }
+    }
+
 }
