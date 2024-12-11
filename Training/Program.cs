@@ -6,55 +6,40 @@ using System.Threading.Tasks;
 
 namespace Training
 {
-    internal class Program
+    using System;
+    using System.Threading.Tasks;
+
+    public class ПримерАсинхронногоМетода
     {
-        static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
+            Console.WriteLine("Начало выполнения");
 
-            M m = new M();
-            N n = new N();
-            M mn = new N();
+            await ДолгаяЗадача();
 
-            m.A();
-            n.C();
-            mn.C();
-            mn.B();
-
-        }
-    }
-    public class M
-    {
-        public void A()
-        {
-            Console.WriteLine("M-A");
+            Console.WriteLine("Конец выполнения");
         }
 
-        public virtual void B()
+        public static async Task ДолгаяЗадача()
         {
-            Console.WriteLine("M-B");
-        }
-
-        public void C()
-        {
-            Console.WriteLine("M-C");
+            Console.WriteLine("Начало долгой задачи");
+            await Task.Delay(2000);  // Имитация длительной операции
+            Console.WriteLine("Конец долгой задачи");
         }
     }
 
-    public class N : M
-    {
-        public void A()
-        {
-            Console.WriteLine("N-A");
-        }
-        public  void B()
-        {
-            Console.WriteLine("N-B");
-        }
 
-        public void C()
-        {
-            Console.WriteLine("N-C");
-        }
-    }
+   
+
+
+
+
 
 }
+
+
+
+
+
+
+

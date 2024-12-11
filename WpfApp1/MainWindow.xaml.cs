@@ -47,6 +47,9 @@ namespace WpfApp1
             }
             else
                 textLabel.Text += str;
+
+
+
         }
     }
 }
